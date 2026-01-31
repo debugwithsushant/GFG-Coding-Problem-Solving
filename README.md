@@ -33,10 +33,10 @@ It is part of my daily DSA practice journey to improve problem-solving skills an
 
 ## 🛠️ Language Used
 
-- **Java** (Primary)
-- **Python** (Primary)
-- **C** (Primary)
-- **C++** (Primary)
+- **Java**
+- **Python**
+- **C**
+- **C++**
 
 ---
 
