@@ -14,12 +14,14 @@ class Day3{
                 secMax = num;
             }
         }
+        
         return secMax;
     }
 
     public static void main(String[] args){
         Day3 day3 = new Day3();
         int[] arr = {1, 1, 1, 1};
+
         System.out.println(day3.getSecondLargest(arr));
     }
 }
