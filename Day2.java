@@ -1,4 +1,4 @@
-//30 January Interleave the First Half of the Queue with Second Half
+// GFG 30-Jan Problem: Interleave the First Half of the Queue with Second Half
 
 import java.util.LinkedList;
 import java.util.Queue;
