@@ -1,7 +1,6 @@
 // GFG Problem: Reverse an Array
 
 import java.util.Arrays;
-
 public class Day5 {
     public static void reverseArray(int[] arr) {
         int start = 0;
